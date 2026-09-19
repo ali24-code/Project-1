@@ -56,7 +56,7 @@ Better links to official release/download pages
 
 Other features as the project develops
 
-###🛠️ Built With
+### 🛠️ Built With
 
 This project currently uses simple web technologies:
 
